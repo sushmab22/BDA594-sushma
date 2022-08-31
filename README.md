@@ -9,4 +9,4 @@
 Big Data is a collection of extremely large datasets, that exponentially increase with time, it is dynamic. It usually comes from a wide variety of resources. 
 Industries use Big Data to develop and constantly improve their Artificial Intelligence, along with marketing and sales strategies. 
 
-<img src = "https://user-images.githubusercontent.com/112423162/187592636-24195ba0-c212-448a-be9e-2fbe917d287c.jpg" height = "300" width = "300">
+<img src = "https://user-images.githubusercontent.com/112423162/187592636-24195ba0-c212-448a-be9e-2fbe917d287c.jpg" height = "200" width = "200">
